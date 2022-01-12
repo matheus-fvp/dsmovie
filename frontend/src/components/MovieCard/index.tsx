@@ -22,7 +22,7 @@ function MovieCard() {
                     <div className="btn btn-primary dsmovie-btn">Avaliar</div>
                 </Link>
             </div>
-    </div>
+        </div>
     );
 }
 
